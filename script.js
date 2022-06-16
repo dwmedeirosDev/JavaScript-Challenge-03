@@ -12,7 +12,7 @@
 //  while (number >= 1){
 //      console.log("Número:", number);
 //      number--;
-//     }
+//  }
 
 
 
